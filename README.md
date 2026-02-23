@@ -50,7 +50,7 @@ Zooms the current view to fit the selected element(s) on the screen.
 
 ***---Known Issues ---***
 
-Disconnect Element - will sometimes delete the installation or make it larger
+Disconnect Element - will sometimes delete the insulation or make it larger
 
 Align MEP elements - will connect to an open connector, but sometimes create another copy of the pipe. Usually, all you have to do is select a pipe and delete it. Additionally, if the connector is below or to the right of the element, it's connecting to weird things can happen. Just “Undo" the command and move whatever you're trying to connect to the left of the element or on top of it in a section view.
 
